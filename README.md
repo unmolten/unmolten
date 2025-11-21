@@ -1,6 +1,6 @@
 ## Heya im molt
 #### I'm a computer engineering student interested in low level programming, gaming and tinkering with hardware.
-- Currently working on: Learning C++ basics
+- Currently working on: Learning C++ basics (kinda procastinating on it but oh well)
 - My dream project is: Making a 3D game from scratch
 - Want to learn: ASM and C
 
