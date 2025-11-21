@@ -5,3 +5,5 @@
 - Want to learn: ASM and C
 
 dont know what else to put here so yeah.
+
+<- Thats my cat in the profile picture
