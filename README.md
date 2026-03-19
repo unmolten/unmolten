@@ -1,3 +1,4 @@
 ![alt text](https://github.com/unmolten/unmolten/blob/main/cat.jpg)
-## Heya im gabriel.
-#### I'm a studying computer engineering at ITCR.
+## Hey im gabriel.
+#### I'm studying Computer Engineering at ITCR.
+<sup>thats not me in the image thats my cat, cookie.</sup>
